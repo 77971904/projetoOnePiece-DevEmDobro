@@ -9,4 +9,4 @@ Quando um botão é clicado:
   
 Permitindo que os usuários selecione um personagem clicando em um botão correspondente, removendo qualquer seleção anterior.
 
-[oneP.webm](https://github.com/77971904/projetoOnePiece-DevEmDobro/assets/108705247/a89788cd-d36c-44d2-b95d-21b1146bf66f)
+[Onep.webm](https://github.com/77971904/projetoOnePiece-DevEmDobro/assets/108705247/533e6308-799d-4747-aa47-ac1904640c21)
